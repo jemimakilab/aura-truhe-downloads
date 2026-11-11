@@ -1,0 +1,8 @@
+.release-assets/
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+.env
+.env.*
